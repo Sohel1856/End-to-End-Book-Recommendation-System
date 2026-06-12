@@ -33,3 +33,7 @@ conda activate books
 ```bash
 pip install -r requirments.txt
 ```
+Now run,
+```bash
+streamlit run app.py
+```
